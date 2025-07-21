@@ -6,8 +6,7 @@ An interactive Power BI dashboard that analyzes road accident and casualty data 
 
 ## 📁 Dataset
 
-- **Source**: [Addis Ababa Accident Dataset (2017–2020)]([https://www.kaggle.com/datasets/sanasy/road-accidents-in-addis-ababa-2017-2020](https://github.com/LibaMariyamK/EDA-Road-Traffic-Accidents/blob/main/RTA%20Dataset.csv))
-- **Original File**: `addis_ababa_accidents.csv`
+- **Dataset CSV File in this repo**: [RTA Dataset.csv](https://github.com/LibaMariyamK/EDA-Road-Traffic-Accidents/blob/main/RTA%20Dataset.csv)
 - **Issue**: Casualty-related columns had a high percentage of missing values.
 - **Solution**: I split the original dataset into two related tables:
   - `road_saftey`: Core accident data (retained full records)
@@ -34,7 +33,7 @@ An interactive Power BI dashboard that analyzes road accident and casualty data 
 | **3. Vehicle & Cause Analysis** | Vehicle types vs. fatalities and major contributing causes |
 | **4. Executive Summary** | Key stats, major insights, and actionable recommendations |
 
-> 🖼️ A PDF version of the final dashboard is included in this repo: [`dashboard_summary.pdf`](./dashboard_summary.pdf)
+> 🖼️ A PDF version of the final dashboard is included in this repo: [`dashboard_summary.pdf`](./RTA.pdf)
 
 ---
 
@@ -66,7 +65,6 @@ An interactive Power BI dashboard that analyzes road accident and casualty data 
 
 ---
 
----
 
 ## 📌 How to Use
 
